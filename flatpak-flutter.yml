@@ -19,7 +19,6 @@ finish-args:
   - --filesystem=xdg-videos
   - --socket=wayland
   - --socket=fallback-x11
-  - --socket=ipc
   - --device=dri
   - --socket=pulseaudio
   - --share=network
